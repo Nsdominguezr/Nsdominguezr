@@ -31,11 +31,11 @@ Actualmente, divido mi tiempo entre la universidad y el desarrollo intensivo de 
 
 ## 📊 Mi Actividad en GitHub (Métricas de Portafolio)
 
-Aquí puedes ver de un vistazo mi actividad más reciente y el uso de mis tecnologías (estas tarjetas se actualizarán automáticamente a medida que empiece a hacer *pushes* con mi cuenta personal):
+Aquí puedes ver de un vistazo mi actividad más reciente y el uso de mis tecnologías. Estas tarjetas se actualizan automáticamente para reflejar mi trabajo real:
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=<TU_USUARIO_GITHUB>&show_icons=true&title_color=fff&icon_color=ffdd00&text_color=ccc&bg_color=1c1c1c&hide_border=true&locale=es" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<TU_USUARIO_GITHUB>&layout=compact&title_color=fff&icon_color=ffdd00&text_color=ccc&bg_color=1c1c1c&hide_border=true&locale=es" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nsdominguezr&show_icons=true&title_color=fff&icon_color=ffdd00&text_color=ccc&bg_color=1c1c1c&hide_border=true&locale=es" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsdominguezr&layout=compact&title_color=fff&icon_color=ffdd00&text_color=ccc&bg_color=1c1c1c&hide_border=true&locale=es" />
 </p>
 
 ---
@@ -48,18 +48,3 @@ Siempre estoy abierto a nuevas oportunidades, colaboraciones o charlar sobre des
 
 ---
 ⭐️ *¡Gracias por visitar mi perfil! No dudes en explorar mis repositorios.*
-
-<!--
-**Nsdominguezr/Nsdominguezr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
