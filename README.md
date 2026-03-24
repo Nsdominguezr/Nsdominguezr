@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Sebástian Dominguez
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Desarrollador+de+Software;Estudiante+de+Ingeniería;Apasionado+por+la+Tecnología" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Desarrollador+de+Software;Estudiante+de+Ingeniería+en+Sistemas;Apasionado+por+la+Tecnología" alt="Typing SVG" /></a>
 
 Soy estudiante y desarrollador de software en constante evolución. Me motiva transformar ideas complejas en soluciones digitales limpias, eficientes y funcionales. Como estoy construyendo activamente mi portafolio, uso este espacio para documentar mis proyectos y compartir el progreso de mis aprendizajes en el mundo real.
 
