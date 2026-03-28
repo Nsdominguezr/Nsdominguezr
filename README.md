@@ -34,8 +34,7 @@ Actualmente, divido mi tiempo entre la universidad y el desarrollo intensivo de 
 Aquí puedes ver de un vistazo mi actividad más reciente y el uso de mis tecnologías. Estas tarjetas se actualizan automáticamente para reflejar mi trabajo real:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nsdominguezr&show_icons=true&count_private=true&title_color=fff&icon_color=ffdd00&text_color=ccc&bg_color=1c1c1c&hide_border=true&locale=es&cache_seconds=1800" alt="Estadísticas de GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsdominguezr&layout=compact&title_color=fff&icon_color=ffdd00&text_color=ccc&bg_color=1c1c1c&hide_border=true&locale=es&cache_seconds=1800" alt="Lenguajes más usados" />
+  <img src="https://github-readme-profile-alpha.vercel.app/api?username=Nsdominguezr&count_private=true&title_color=fff&icon_color=ffdd00&text_color=ccc&bg_color=1c1c1c&hide_border=true&locale=es" height="180em" alt="Estadísticas de GitHub" />
 </p>
 
 
