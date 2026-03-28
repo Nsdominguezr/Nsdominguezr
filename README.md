@@ -29,13 +29,23 @@ Actualmente, divido mi tiempo entre la universidad y el desarrollo intensivo de 
 
 ---
 
-## 📊 Mi Actividad en GitHub (Métricas de Portafolio)
+## 📊 Mi Stack y Herramientas
 
-Aquí puedes ver de un vistazo mi actividad más reciente y el uso de mis tecnologías. Estas tarjetas se actualizan automáticamente para reflejar mi trabajo real:
+Aquí tienes un resumen de las tecnologías con las que trabajo y que aplico en mis proyectos (tanto públicos como privados):
 
-<a href="https://github.com/Nsdominguezr">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsdominguezr&layout=compact&langs_count=8&title_color=fff&icon_color=ffdd00&text_color=ccc&bg_color=1c1c1c&hide_border=true&locale=es" alt="Lenguajes más usados" />
-</a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,scss,react,angular,py,mysql,git,github&perline=6&theme=dark" alt="Mis Tecnologías" />
+  </a>
+</p>
+
+## 📈 Mi Actividad General
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Nsdominguezr?label=Seguidores&style=for-the-badge&color=ffdd00&logo=github&logoColor=black" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/Nsdominguezr?label=Estrellas%20Recibidas&style=for-the-badge&color=ffdd00&logo=github&logoColor=black" alt="Estrellas" />
+  <img src="https://img.shields.io/github/directory-file-count/Nsdominguezr?label=Repositorios&style=for-the-badge&color=ffdd00&logo=github&logoColor=black" alt="Repositorios" />
+</p>
 
 ---
 
