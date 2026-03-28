@@ -39,14 +39,6 @@ Aquí tienes un resumen de las tecnologías con las que trabajo y que aplico en 
   </a>
 </p>
 
-## 📈 Mi Actividad General
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Nsdominguezr?label=Seguidores&style=for-the-badge&color=ffdd00&logo=github&logoColor=black" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/Nsdominguezr?label=Estrellas%20Recibidas&style=for-the-badge&color=ffdd00&logo=github&logoColor=black" alt="Estrellas" />
-  <img src="https://img.shields.io/github/directory-file-count/Nsdominguezr?label=Repositorios&style=for-the-badge&color=ffdd00&logo=github&logoColor=black" alt="Repositorios" />
-</p>
-
 ---
 
 ## 📫 Cómo contactarme
