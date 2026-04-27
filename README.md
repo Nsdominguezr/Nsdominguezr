@@ -78,6 +78,7 @@ graph TD
     class BE backend;
     class DB database;
     class Git tools;
+```
     ```
 ## 📫 Cómo contactarme
 
