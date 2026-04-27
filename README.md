@@ -45,7 +45,7 @@ graph TD
     classDef database fill:#00758f,stroke:#fff,color:#fff,stroke-width:2px;
     classDef tools fill:#24292e,stroke:#fff,color:#fff,stroke-width:2px;
 
-    %% Nodos
+    %% Nodos y Organización
     subgraph "Capa de Cliente (Frontend)"
         FE[Angular / React]
         Lang[JS / TypeScript]
@@ -77,7 +77,7 @@ graph TD
     class BE backend;
     class DB database;
     class Git tools;
-
+    
 ## 📫 Cómo contactarme
 
 Siempre estoy abierto a nuevas oportunidades, colaboraciones o charlar sobre desarrollo.
