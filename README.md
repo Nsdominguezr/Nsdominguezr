@@ -37,49 +37,13 @@ Actualmente, divido mi tiempo entre la universidad y el desarrollo intensivo de 
 | **Backend & DB** | <img src="https://skillicons.dev/icons?i=py,mysql" /> |
 | **Herramientas** | <img src="https://skillicons.dev/icons?i=git,github" /> |
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahumdominguez&layout=compact&langs_count=5&theme=dark" alt="Porcentaje de Lenguajes" />
+</p>
+
 ---
-```mermaid
-graph TD
-    %% Definición de Estilos
-    classDef frontend fill:#2396f3,stroke:#fff,color:#fff,stroke-width:2px;
-    classDef backend fill:#3776ab,stroke:#fff,color:#fff,stroke-width:2px;
-    classDef database fill:#00758f,stroke:#fff,color:#fff,stroke-width:2px;
-    classDef tools fill:#24292e,stroke:#fff,color:#fff,stroke-width:2px;
 
-    %% Nodos y Organización
-    subgraph "Capa de Cliente (Frontend)"
-        FE[Angular / React]
-        Lang[JS / TypeScript]
-        Styles[HTML / CSS / SCSS]
-    end
 
-    subgraph "Capa de Lógica (Backend)"
-        BE[Python]
-    end
-
-    subgraph "Almacenamiento"
-        DB[(MySQL)]
-    end
-
-    subgraph "Control de Versiones"
-        Git[Git / GitHub]
-    end
-
-    %% Conexiones
-    Styles --> FE
-    Lang --> FE
-    FE <==>|Peticiones API| BE
-    BE <==>|Consultas SQL| DB
-    Git -.-> FE
-    Git -.-> BE
-
-    %% Aplicar Estilos
-    class FE,Lang,Styles frontend;
-    class BE backend;
-    class DB database;
-    class Git tools;
-```
-    ```
 ## 📫 Cómo contactarme
 
 Siempre estoy abierto a nuevas oportunidades, colaboraciones o charlar sobre desarrollo.
