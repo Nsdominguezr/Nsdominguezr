@@ -38,6 +38,45 @@ Actualmente, divido mi tiempo entre la universidad y el desarrollo intensivo de 
 | **Herramientas** | <img src="https://skillicons.dev/icons?i=git,github" /> |
 
 ---
+graph TD
+    %% Definición de Estilos
+    classDef frontend fill:#2396f3,stroke:#fff,color:#fff,stroke-width:2px;
+    classDef backend fill:#3776ab,stroke:#fff,color:#fff,stroke-width:2px;
+    classDef database fill:#00758f,stroke:#fff,color:#fff,stroke-width:2px;
+    classDef tools fill:#24292e,stroke:#fff,color:#fff,stroke-width:2px;
+
+    %% Nodos
+    subgraph "Capa de Cliente (Frontend)"
+        FE[Angular / React]
+        Lang[JS / TypeScript]
+        Styles[HTML / CSS / SCSS]
+    end
+
+    subgraph "Capa de Lógica (Backend)"
+        BE[Python]
+    end
+
+    subgraph "Almacenamiento"
+        DB[(MySQL)]
+    end
+
+    subgraph "Control de Versiones"
+        Git[Git / GitHub]
+    end
+
+    %% Conexiones
+    Styles --> FE
+    Lang --> FE
+    FE <==>|Peticiones API| BE
+    BE <==>|Consultas SQL| DB
+    Git -.-> FE
+    Git -.-> BE
+
+    %% Aplicar Estilos
+    class FE,Lang,Styles frontend;
+    class BE backend;
+    class DB database;
+    class Git tools;
 
 ## 📫 Cómo contactarme
 
