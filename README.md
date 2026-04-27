@@ -38,7 +38,7 @@ Actualmente, divido mi tiempo entre la universidad y el desarrollo intensivo de 
 | **Herramientas** | <img src="https://skillicons.dev/icons?i=git,github" /> |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahumdominguez&layout=compact&langs_count=5&theme=dark" alt="Porcentaje de Lenguajes" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsdominguezr&layout=compact&langs_count=5&theme=dark" alt="Porcentaje de Lenguajes de Nsdominguezr" />
 </p>
 
 ---
