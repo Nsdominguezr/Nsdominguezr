@@ -38,6 +38,7 @@ Actualmente, divido mi tiempo entre la universidad y el desarrollo intensivo de 
 | **Herramientas** | <img src="https://skillicons.dev/icons?i=git,github" /> |
 
 ---
+```mermaid
 graph TD
     %% Definición de Estilos
     classDef frontend fill:#2396f3,stroke:#fff,color:#fff,stroke-width:2px;
@@ -77,7 +78,7 @@ graph TD
     class BE backend;
     class DB database;
     class Git tools;
-    
+    ```
 ## 📫 Cómo contactarme
 
 Siempre estoy abierto a nuevas oportunidades, colaboraciones o charlar sobre desarrollo.
