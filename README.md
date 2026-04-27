@@ -29,15 +29,13 @@ Actualmente, divido mi tiempo entre la universidad y el desarrollo intensivo de 
 
 ---
 
-## 📊 Mi Stack y Herramientas
+## 📊 Mi Stack de Tecnologías
 
-Aquí tienes un resumen de las tecnologías con las que trabajo y que aplico en mis proyectos (tanto públicos como privados):
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,scss,react,angular,py,mysql,git,github&perline=6&theme=dark" alt="Mis Tecnologías" />
-  </a>
-</p>
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,angular,react" /> |
+| **Backend & DB** | <img src="https://skillicons.dev/icons?i=py,mysql" /> |
+| **Herramientas** | <img src="https://skillicons.dev/icons?i=git,github" /> |
 
 ---
 
